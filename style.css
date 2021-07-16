@@ -1,0 +1,29 @@
+h1{
+  color: #000000;
+
+}
+.header{
+   background-color: #ffffff;
+
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: fantasy;
+    justify-content:space-evenly;
+}
+
+.grid img{
+    display: flex;
+    border: 2px solid #ccffff;
+    border-radius: 50px;
+}
+
+body{
+    background-color:#0000e6;
+}
+p{
+    color: #ffffff;
+}
